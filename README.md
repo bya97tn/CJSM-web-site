@@ -7,7 +7,7 @@ CJSM-web-site
     <meta name="author" content="bya97TN">
   </head>
   <body>
-    <p style="font-size:50px; color: blue> Club Jeunes Scince Medjez El Beb </p>  
+    <p style="font-size:50px; color: blue"> Club Jeunes Scince Medjez El Beb </p>  
     <center>
         <img src="images/logo_club.jpg" style="alignment-adjust: central; box-shadow:2px 2px 2px 2px gray; border-radius:10px; width:50%;">
     </center>
