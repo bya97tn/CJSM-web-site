@@ -1,6 +1,5 @@
 CJSM-web-site
 =============
-<!DOCTYPE html>
 <html lang="fr">
   <head>
     <meta charset="utf-8">
@@ -13,7 +12,6 @@ CJSM-web-site
     </center>
     <br />
     <p>En fait, notre club compte actuellement 5 Sections d’activité :</p>        
-    <br/>
     <ul>
         <li>Informatiques (Hardware, Software, Web et Réseaux)</li>
         <li>Électroniques & Robotiques</li>
